@@ -1,6 +1,6 @@
 # 📚Pengalaman Belajarku di Dicoding
-Saat ini aku sedang mengikuti Coding Camp 2025 powered by DBS Foundation.
-Alur Belajar Machine Learning Engineer:
+Saat ini aku sedang mengikuti Coding Camp 2025 powered by DBS Foundation.<br>
+**Alur Belajar Machine Learning Engineer:**
 - Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 - Pengenalan ke Logika Pemrograman (Programming Logic 101)
 - Belajar Dasar Git dengan GitHub
